@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Runtime data
+.pnpm-debug.log
+
+# Dependencies
+package.json
+package-lock.json
+
+# Environment variables
+.env
+
+# Build
+dist/
+build/
+
+# Frontend
+/public/assets/
+/public/static/
+/.nuxt/
+/.next/
